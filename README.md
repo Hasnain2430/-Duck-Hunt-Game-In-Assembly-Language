@@ -69,9 +69,3 @@ Game Modes
 Contributing
 Feel free to contribute to this project by creating pull requests, reporting issues, or suggesting new features.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-Copy this text into your README file on GitHub, and you’ll have a complete and polished description of your project! Let me know if you have any additional requests.
